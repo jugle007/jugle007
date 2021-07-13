@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jugle007
 - 👀 I’m interested in: processing power and algorithmic programming
 - 🌱 I’m currently learning: web development
-- 💞️ I’m looking to collaborate on: nothing at the moment
+- 💞️ I’m looking to collaborate on: nothing at the moment (looking for job)
 - 📫 How to reach me: juglekishore007@gmail.com
 
 <!---
